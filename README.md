@@ -10,5 +10,5 @@ Home: The homepage should contain your data (bio)
 About: The about me page should contain brief information about you
 Contact: The contact page should contain links to your social media
 
--The base URL of the app should render the homepage
--There should be a /home route that redirects to the base of your app
+- The base URL of the app should render the homepage
+- There should be a /home route that redirects to the base of your app
